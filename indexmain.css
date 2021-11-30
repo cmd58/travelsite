@@ -1,3 +1,7 @@
 .card {
     float: right;
 }
+
+main {
+    float: left;
+}
